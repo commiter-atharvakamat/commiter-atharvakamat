@@ -1,7 +1,22 @@
-## Hi there 👋
+## Hello Devs 👋, I am Atharva Kamat. <sup>(He/Him)</sup>
+
+From high-level vision to low-level details, I thrive across the spectrum of abstraction.
+
+## Coding Profiles
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/profile/atharvakamaten?tab=activity)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/dev_ak10/)
+<img src="https://komarev.com/ghpvc/?username=commiter-atharvakamat&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<a href="https://www.linkedin.com/in/atharva-kamat-105108247/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+</a>
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dev_ak10)
 
 <!--
-**commiter-atharvakamat/commiter-atharvakamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**atharva-kamat/atharva-kamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
