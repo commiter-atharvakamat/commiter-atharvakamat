@@ -3,9 +3,10 @@
 From high-level vision to low-level details, I thrive across the spectrum of abstraction.
 
 ## Coding Profiles
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-white)](https://portfolio-psi-smoky-90.vercel.app/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-green)](https://www.geeksforgeeks.org/profile/atharvakamaten?tab=activity)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow)](https://leetcode.com/u/dev_ak10/)
-<img src="https://komarev.com/ghpvc/?username=commiter-atharvakamat&label=Profile%20Views&color=0e75b6&style=flat" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-brown)](https://leetcode.com/u/dev_ak10/)
+<img src="https://komarev.com/ghpvc/?username=commiter-atharvakamat&label=View%20Count&color=0e75b6&style=flat" />
 
 <a href="https://www.linkedin.com/in/atharva-kamat-105108247/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
